@@ -33,3 +33,11 @@ header {
     width: 64px;
     height: 64px;
 }
+
+.mcmain {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    background: url(images/bg.png) no-repeat, url(images/minecraftbg.webp);
+    background-size: cover;
+    background-position: center;
+}
