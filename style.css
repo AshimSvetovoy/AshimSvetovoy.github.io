@@ -1,0 +1,33 @@
+body {
+    background: #000;
+    color: #CECFE1;
+    font-size: 20px;
+    font-family: Tahoma, sans-serif;
+}
+
+a {
+    color: #007DDF;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+header {
+    background: #2B244D;
+}
+
+.navigation {
+    display: flex;
+    gap: 25px;
+    font-size: 25px;
+    margin: 0;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.rals {
+    width: 64px;
+    height: 64px;
+}
