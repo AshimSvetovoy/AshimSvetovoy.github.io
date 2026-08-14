@@ -27,6 +27,7 @@ header {
     padding-left: 30px;
     padding-right: 30px;
     list-style: none;
+    align-items: center;
 }
 
 .rals {
