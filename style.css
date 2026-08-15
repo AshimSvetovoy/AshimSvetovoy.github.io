@@ -1,6 +1,6 @@
 body {
     background: #000;
-    color: #CECFE1;
+    color: #cecfe1;
     font-size: 20px;
     font-family: Tahoma, sans-serif;
 }
@@ -11,12 +11,12 @@ main {
 }
 
 a {
-    color: #007DDF;
+    color: #007ddf;
     text-decoration: none;
 }
 
 header {
-    background: #2B244D;
+    background: #2b244d;
 }
 
 .navigation {
@@ -38,7 +38,9 @@ header {
 .mcmain {
     padding-top: 16px;
     padding-bottom: 16px;
-    background: url(images/bg.png) no-repeat, url(images/minecraftbg.webp);
+    background:
+        url(images/bg.png) no-repeat,
+        url(images/minecraftbg.webp);
     background-size: cover;
     background-position: center;
 }
